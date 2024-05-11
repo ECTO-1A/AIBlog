@@ -1,5 +1,7 @@
 ---
+layout: post
 title: Siri Shortcut for ChatGPT
+author: chris
 date: 2023-08-02 14:30:00 -0500
 categories: [Portfolio, Coding Projects]
 tags: [portfolio, coding projects, ai, mac, ios]     # TAG names should always be lowercase
