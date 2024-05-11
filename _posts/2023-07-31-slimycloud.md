@@ -1,4 +1,5 @@
 ---
+featured: true
 layout: post
 title: Fun With LLMs SLIMY.CLOUD
 author: chris
