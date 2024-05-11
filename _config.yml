@@ -20,6 +20,7 @@ authors:
     web: https://github.com/ECTO-1A
     twitter: https://x.com/ECTO-1A
     description: "I'm an anomaly. An Enigma. A mystery wrapped in a riddle."
+    avatar: 'assets/images/avatar.png'
   
 # Plugins
 plugins:
