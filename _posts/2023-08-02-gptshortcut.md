@@ -3,7 +3,7 @@ title: Siri Shortcut for ChatGPT
 date: 2023-08-02 14:30:00 -0500
 categories: [Portfolio, Coding Projects]
 tags: [portfolio, coding projects, ai, mac, ios]     # TAG names should always be lowercase
-image: /assets/images/image-4.png
+image: assets/images/image-4.png
 ---
 
 # Siri Shortcut for ChatGPT
