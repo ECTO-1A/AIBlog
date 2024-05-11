@@ -3,9 +3,8 @@ title: Mac Ducky Script For User Security Test
 date: 2022-12-27 14:30:00 -0500
 categories: [Portfolio, Coding Projects]
 tags: [portfolio, coding projects, cybersecurity, duckyscript, flipperzero]     # TAG names should always be lowercase
-image:
-  path: /assets/images/ducky.png
-  align: left
+image: /assets/images/ducky.png
+  
   
 
 
