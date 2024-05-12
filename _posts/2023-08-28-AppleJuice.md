@@ -5,7 +5,7 @@ author: chris
 date: 2023-08-28 14:30:00 -0500
 categories: [Portfolio, Coding Projects]
 tags: [portfolio, coding projects, ai, mac, ios]     # TAG names should always be lowercase
-image: assets/images/61.png
+image: assets/images/66.png
 ---
 
 # Apple Device Proximity Pairing Reverse Engineering

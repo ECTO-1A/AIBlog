@@ -5,7 +5,7 @@ author: chris
 date: 2023-07-29 14:30:00 -0500
 categories: [Portfolio, Coding Projects]
 tags: [portfolio, coding projects, ai, mac, ios, apple]    # TAG names should always be lowercase
-image: assets/images/brain.jpg
+image: assets/images/72.png
 ---
 
 # Siri Shortcuts and ChatGPT As A Language Learning Tool
