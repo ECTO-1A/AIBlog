@@ -1,12 +1,12 @@
 ---
 featured: true
 layout: post
-title: Fun With LLMs SLIMY.CLOUD
+title: Fun With LLMs slimy.cloud
 author: chris
 date: 2023-01-07 14:30:00 -0500
 categories: [Portfolio, Coding Projects, AI]
 tags: [portfolio, coding projects, python, gpt, ai, flask]     # TAG names should always be lowercase
-image: assets/images/slimy.png
+image: assets/images/54.png
 ---
 
 <H2>SLIMY.CLOUD</H2>
