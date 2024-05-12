@@ -1,7 +1,7 @@
 ---
 featured: true
 layout: post
-title: Fun With LLMs slimy.cloud
+title: Fun With LLMs - slimy.cloud
 author: chris
 date: 2023-01-07 14:30:00 -0500
 categories: [Portfolio, Coding Projects, AI]
