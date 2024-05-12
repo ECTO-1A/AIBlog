@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mac Ducky Script For User Security Test
+title: Would Your Users Plug In A Random USB?
 author: chris
 date: 2022-12-27 14:30:00 -0500
 categories: [Portfolio, Coding Projects]
@@ -11,9 +11,7 @@ image: assets/images/53.png
 
 
 ---
-# Would Your Users Plug In A Random USB?
-
-## Cyber Security Tools - Mac Ducky Script Red Team Security Test
+# Cyber Security Tools - Mac Ducky Script Red Team Security Test
 
  
 I made this Ducky Script for testing if end users will plug in a random usb (ducky) or cable(O.MG).
