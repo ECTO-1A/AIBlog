@@ -10,7 +10,7 @@ image: assets/images/54.png
 ---
 
 <H2>SLIMY.CLOUD</H2>
-Slilmy.cloud was the first AI app that I created. Its purpose was to:
+This was the first AI / LLM app I created. Its purpose was to:
 - Provide GPT access to friends and family without needing to create an account 
 - Showcase the functionality of different system prompts (with the ability to stack multiple)
 - Showcase GPT in multiple "rolls" : Therapist, IT Technician, Language Tutor 
