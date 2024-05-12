@@ -1,6 +1,7 @@
 ---
-featured: true
+featured: false
 title: Using ChatGPT and Siri As A Language Teacher
+author: chris
 date: 2023-07-29 14:30:00 -0500
 categories: [Portfolio, Coding Projects]
 tags: [portfolio, coding projects, ai, mac, ios, apple]    # TAG names should always be lowercase
