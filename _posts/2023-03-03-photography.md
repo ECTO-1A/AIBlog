@@ -1,9 +1,11 @@
 ---
-title: Photography
-date: 2023-01-01 14:30:00 -0500
+title: Other Projects
+date: 2020-01-01 14:30:00 -0500
 categories: [Portfolio, Photography]
 tags: [photography]     # TAG names should always be lowercase
 ---
+
+# Some additional projects I've worked on outside of development and AI.
 
 # Photography
 
