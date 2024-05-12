@@ -11,10 +11,12 @@ image: assets/images/53.png
 
 
 ---
+# Would Your Users Plug In A Random USB?
 
-# Infosec User Test Ducky Script
+## Cyber Security Tools - Mac Ducky Script Red Team Security Test
 
-Ducky Script for testing if end users will plug in a random usb (ducky) or cable(O.MG).
+ 
+I made this Ducky Script for testing if end users will plug in a random usb (ducky) or cable(O.MG).
 
 1) When the device is plugged in, the payload triggers. It collects the logged in user name and the serial number of device.
 
