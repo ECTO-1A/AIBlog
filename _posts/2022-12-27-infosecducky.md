@@ -20,17 +20,21 @@ I made this Ducky Script for testing if end users will plug in a random usb (duc
 
 2) It then sends that info to a discord webhook
 
-<img width="333" src="https://user-images.githubusercontent.com/112792126/209692167-1a0081d4-9446-42cb-bf51-5d1c93d0711c.png">
+<div style="display: flex; justify-content: center;">
+  <img width="333" src="https://user-images.githubusercontent.com/112792126/209692167-1a0081d4-9446-42cb-bf51-5d1c93d0711c.png">
+</div>
 
 
 3) User gets a popup telling them they failed the evaluation and to return the device to the team.
 
-<img width="333" src="https://user-images.githubusercontent.com/112792126/209692487-6c9de450-f84f-409e-8b7a-c84e0d31144e.png">
+<div style="display: flex; justify-content: center;">
+  <img width="333" src="https://user-images.githubusercontent.com/112792126/209692487-6c9de450-f84f-409e-8b7a-c84e0d31144e.png">
+</div>
 
   
 # Technology Used
 
-- Understanding of MacOS & Shell
+- Understanding of MacOS & Bash/Shell
 - Duckyscript to write code
 - Discord Webhooks
 - O.MG Cable & Flipper Zero (BadUSB) to test script deployment
