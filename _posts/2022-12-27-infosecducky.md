@@ -3,7 +3,7 @@ layout: post
 title: Would Your Users Plug In A Random USB?
 author: chris
 date: 2022-12-27 14:30:00 -0500
-categories: [Portfolio, Coding Projects]
+categories: [Coding Projects, Cybersecurity]
 tags: [portfolio, coding projects, cybersecurity, duckyscript, flipperzero]     # TAG names should always be lowercase
 image: assets/images/53.png
   

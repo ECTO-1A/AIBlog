@@ -4,7 +4,7 @@ layout: post
 title: Fun With LLMs - slimy.cloud
 author: chris
 date: 2023-01-07 14:30:00 -0500
-categories: [Portfolio, Coding Projects, AI]
+categories: [AI, Coding Projects]
 tags: [portfolio, coding projects, python, gpt, ai, flask]     # TAG names should always be lowercase
 image: assets/images/54.png
 ---

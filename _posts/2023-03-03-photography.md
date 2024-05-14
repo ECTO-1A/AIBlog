@@ -1,7 +1,7 @@
 ---
 title: Other Projects
 date: 2020-01-01 14:30:00 -0500
-categories: [Portfolio, Photography]
+categories: []
 tags: [photography]     # TAG names should always be lowercase
 ---
 
