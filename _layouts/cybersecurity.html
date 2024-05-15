@@ -1,0 +1,16 @@
+---
+title: "Cybersecurity"
+layout: default
+permalink: "/cybersecurity.html"
+---
+
+<div class="row listrecent">
+    <div class="section-title col-md-12 mt-4">
+    <h2 id="ai"><span class="text-capitalize">Cybersecurity Posts</span></h2>
+    </div>
+    {% for post in site.categories.Cybersecurity %}
+    {% if post.title != null %}
+    {% include postbox.html %}
+    {% endif %}
+    {% endfor %}
+    </div>
