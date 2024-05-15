@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "MaraudersMapAI: Encrypting AI Prompts in Images with Python Steganography"
+title: "MaraudersMapAI: Encrypting AI Prompts in Images with Python & Steganography"
 date: 2024-01-27
 categories: [AI, Coding Projects, Cybersecurity]
 tags: [python, encryption, steganography, ai, chatbot]
 image: assets/images/81.png
+description: "MaraudersMapAI combines the power of Fernet encryption and steganography to hide information within images, ensuring that the system prompt for an AI chatbot remains secure and undisclosed to prying eyes."
 ---
 
 # MaraudersMapAI: Mischief Managed
