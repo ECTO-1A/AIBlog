@@ -8,7 +8,7 @@ image: assets/images/81.png
 ---
 MaraudersMapAI combines the power of Fernet encryption and steganography to hide information within images, ensuring that the system prompt for an AI chatbot remains secure and undisclosed to prying eyes.
 
-
+---
 
 # MaraudersMapAI: Mischief Managed
 
