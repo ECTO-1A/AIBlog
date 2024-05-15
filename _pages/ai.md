@@ -1,5 +1,5 @@
 ---
-layout: categories
-title: AI
-permalink: /ai
+layout: category_ai
+title: "AI"
+permalink: "/category/ai/"
 ---
