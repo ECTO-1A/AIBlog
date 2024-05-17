@@ -802,7 +802,7 @@ iframe {
     border-radius: 30px;
     color: #fff;
     font-weight: 500;
-    text-transform: lowercase;
+    text-transform: none;
     font-size: 0.8rem;
     display: inline-block;
 }
