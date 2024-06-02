@@ -5,7 +5,7 @@ date: 2024-06-02
 categories: [AI]
 tags: [AI]
 author: chris
-image: assets/images/genai.png 
+image: assets/images/genai2.png 
 ---
 
 The term "Generative AI" (GenAI) has surged in popularity among business leaders and tech enthusiasts, often hailed as the next big thing in artificial intelligence. However, this catch-all label is increasingly misapplied, especially when it comes to complex AI systems like LangChain and CrewAI. These systems do far more than just generate content; they automate intricate workflows, integrate diverse tools, and coordinate multiple AI agents. Here’s why "GenAI" doesn't do them justice.
