@@ -2,6 +2,7 @@
 layout: post
 title: "MaraudersMapAI: Encrypting AI Prompts in Images with Python & Steganography"
 date: 2024-01-27
+author: chris
 categories: [AI, Coding Projects, Cybersecurity]
 tags: [python, encryption, steganography, ai, chatbot]
 image: assets/images/81.png 
