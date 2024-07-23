@@ -21,9 +21,9 @@ This exploit turned the Flipper Zero into a Denial-of-Service (DoS) weapon again
 
 #### Real-World Impact
 
-The impact of this exploit wasn't limited to technical demonstrations. There were numerous reports of disruptions in schools and public places. Students were suspended for using the Flipper Zero to crash iPhones, causing significant chaos and drawing attention from major tech sites【15†source】【16†source】【23†source】【25†source】.
+The impact of this exploit wasn't limited to technical demonstrations. There were numerous reports of disruptions in schools and public places. Students were suspended for using the Flipper Zero to crash iPhones, causing significant chaos and drawing attention from major tech sites ([9to5Mac](https://9to5mac.com/2023/12/15/the-jig-is-up-flipper-zero-devices-can-no-longer-crash-iphones-running-ios-17-2/), [Malwarebytes](https://www.malwarebytes.com/lock-and-code-podcast/flipper-zero-iphone-crash), [MacRumors](https://www.macrumors.com/2023/12/02/apple-fixes-flipper-zero-iphone-crash/), [Gizmodo](https://www.gizmodo.com.au/2023/12/apple-shuts-down-flipper-zeros-ability-to-shut-down-iphones/)).
 
-One notable incident involved Jeroen van der Ham, who experienced the exploit firsthand on a train in the Netherlands. His iPhone, along with those of other passengers, was bombarded with pairing requests, rendering the devices unusable until they were rebooted. This highlighted the severity and potential misuse of the vulnerability【16†source】.
+One notable incident involved Jeroen van der Ham, who experienced the exploit firsthand on a train in the Netherlands. His iPhone, along with those of other passengers, was bombarded with pairing requests, rendering the devices unusable until they were rebooted. This highlighted the severity and potential misuse of the vulnerability.
 
 #### Setting the Record Straight
 
@@ -31,7 +31,7 @@ While some credit went to the moniker "Techryptic" in several articles, I want t
 
 #### Apple’s Response: iOS 17.2 Update
 
-In response to this widespread issue, Apple released the iOS 17.2 update in December 2023, which implemented safeguards to prevent Flipper Zero devices from crashing iPhones. According to tests by [9to5Mac](https://9to5mac.com/2023/12/15/the-jig-is-up-flipper-zero-devices-can-no-longer-crash-iphones-running-ios-17-2/) and [ZDNet](https://www.zdnet.com/article/ios-17-2-update-puts-an-end-to-flipper-zero-iphone-shenanigans/), iOS 17.2 has successfully mitigated the exploit. While the devices might still receive a few pop-ups, they no longer crash or reboot as they did before【22†source】【24†source】.
+In response to this widespread issue, Apple released the iOS 17.2 update in December 2023, which implemented safeguards to prevent Flipper Zero devices from crashing iPhones. According to tests by [9to5Mac](https://9to5mac.com/2023/12/15/the-jig-is-up-flipper-zero-devices-can-no-longer-crash-iphones-running-ios-17-2/) and [ZDNet](https://www.zdnet.com/article/ios-17-2-update-puts-an-end-to-flipper-zero-iphone-shenanigans/), iOS 17.2 has successfully mitigated the exploit. While the devices might still receive a few pop-ups, they no longer crash or reboot as they did before.
 
 The update appears to introduce a timeout mechanism for BLE advertising packets, effectively stopping the flood of pairing requests that led to the DoS attacks. This fix has significantly reduced the exploit's impact, transforming it from a severe vulnerability into a minor annoyance.
 
